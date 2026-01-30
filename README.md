@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vedika Chhabra 💗</h1>
+<h1 align="center">Hi, I'm Vedika 💗</h1>
 <h3 align="center">Pre-final year CSE student • Full Stack Dev • ML Researcher</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ research-grade ML pipelines.
 
 Currently:
 - 🧠 ML + neuroimaging research (fMRI, Transformers)
-- 📝 Co-authoring a research paper
+- 📝 Co-authoring multiple research papers
 - 👩‍🏫 Teaching Assistant (DDCO)
 
 ---
@@ -95,7 +95,7 @@ Currently:
 
 ## 🏆 Achievements
 
-- 🎓 Distinction Award Scholarship (Every Semester)
+- 🎓 Distinction Award Scholarship
 - 👩‍💼 Class Representative
 - ☁️ AWS Certified (EC2, VPC)
 
