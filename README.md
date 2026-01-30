@@ -4,7 +4,7 @@
 <p align="center">
 📍 Bengaluru, India <br>
 🧠 Research-driven ML & scalable systems <br>
-🎓 Distinction Award Scholar (Every Semester)
+🎓 Distinction Award Scholar
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 💫 About Me
 
 I’m a **pre-final year Computer Science student at PES University (Batch of 2027)**  
-working across **Full Stack Development (MERN)** and **Machine Learning research**.
+working across **Full Stack Development (MERN)**, **Machine Learning research** and **Cybersecurity**.
 
 I love building things that sit at the intersection of  
 **data, systems, and real-world impact** — from backend-heavy platforms to
