@@ -101,7 +101,7 @@ Currently:
 
 ## 💌 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedika-chhabra-8327b2298/)
 [![Gmail](https://img.shields.io/badge/Gmail-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedikac11@gmail.com)
 
 ---
